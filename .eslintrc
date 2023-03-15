@@ -1,0 +1,14 @@
+{
+  "extends": [
+    "plugin:vue/essential",
+    "eslint:recommended"
+  ],
+  "plugins": [
+    "vue"
+  ],
+  "rules": {
+    "vue/require-valid-default-prop": "off",
+    "vue/no-unused-components": "off",
+    "vue/no-parsing-error": "off"
+  }
+}
